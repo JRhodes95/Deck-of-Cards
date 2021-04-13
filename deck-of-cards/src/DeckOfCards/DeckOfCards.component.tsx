@@ -4,7 +4,11 @@ import './DeckOfCards.component.scss'
 
 const DeckOfCards = () => {
     return (
-        <Directory />
+        <div>
+            <h1>Deck OF Cards</h1>
+            <Directory />
+        </div>
+        
     )
 }
 export default DeckOfCards

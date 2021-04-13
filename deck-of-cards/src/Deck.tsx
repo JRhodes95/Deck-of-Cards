@@ -39,19 +39,19 @@ export const DectOfCardsArray: DeckObj[] = [
     },
     {
       "suit": "hearts",
-      "value": "J"
+      "value": 11
     },
     {
       "suit": "hearts",
-      "value": "Q"
+      "value": 12
     },
     {
       "suit": "hearts",
-      "value": "K"
+      "value": 13
     },
     {
       "suit": "hearts",
-      "value": "A"
+      "value": 14
     },
     {
       "suit": "diamonds",
@@ -91,19 +91,19 @@ export const DectOfCardsArray: DeckObj[] = [
     },
     {
       "suit": "diamonds",
-      "value": "J"
+      "value": 11
     },
     {
       "suit": "diamonds",
-      "value": "Q"
+      "value": 12
     },
     {
       "suit": "diamonds",
-      "value": "K"
+      "value": 13
     },
     {
       "suit": "diamonds",
-      "value": "A"
+      "value": 14
     },
     {
       "suit": "clubs",
@@ -143,19 +143,19 @@ export const DectOfCardsArray: DeckObj[] = [
     },
     {
       "suit": "clubs",
-      "value": "J"
+      "value": 11
     },
     {
       "suit": "clubs",
-      "value": "Q"
+      "value": 12
     },
     {
       "suit": "clubs",
-      "value": "K"
+      "value": 13
     },
     {
       "suit": "clubs",
-      "value": "A"
+      "value": 14
     },
     {
       "suit": "spades",
@@ -195,18 +195,18 @@ export const DectOfCardsArray: DeckObj[] = [
     },
     {
       "suit": "spades",
-      "value": "J"
+      "value": 11
     },
     {
       "suit": "spades",
-      "value": "Q"
+      "value": 12
     },
     {
       "suit": "spades",
-      "value": "K"
+      "value": 13
     },
     {
       "suit": "spades",
-      "value": "A"
+      "value": 14
     }
   ]
